@@ -28,3 +28,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+© 2025 Mia Murphy.  
+All original code, data visualizations, and designs within this account are licensed under  
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/),  
+unless otherwise noted in a repository.
