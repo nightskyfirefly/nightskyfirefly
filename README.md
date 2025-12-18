@@ -74,20 +74,6 @@ I build **intelligent dashboards** and **analytics systems** that help businesse
 
 <br>
 
-<!-- DIVIDER_2 -->
-<div align="center">
-<img width="500" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,25:c9b8e8,50:f4b8c5,75:a8c8e8,100:0a0a12&height=3" />
-</div>
-
-<br>
-
-<!-- DIVIDER_4 -->
-<div align="center">
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,25:c9b8e8,50:a8c8e8,75:f4b8c5,100:0a0a12&height=3" />
-</div>
-
-<br>
-
 <!-- CONNECT -->
 <div align="center">
 
