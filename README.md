@@ -32,17 +32,6 @@
 </div>
 <!-- MOON_PHASE_END -->
 
-<!-- DIVIDER_1 -->
-<div align="center">
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,25:c9b8e8,50:a8c8e8,75:f4b8c5,100:0a0a12&height=3" />
-</div>
-
-<!-- TYPING_ANIMATION -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=300&size=22&duration=4000&pause=1500&color=C9B8E8&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Fireflies+dance+where+data+meets+design;Building+dashboards+under+lavender+skies;From+spreadsheets+to+starlight;Finance+×+Data+×+Automation;Where+analytics+bloom+like+aurora)](https://git.io/typing-svg)
-
-</div>
 <br>
 
 <!-- ABOUT_ME -->
