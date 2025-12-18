@@ -133,12 +133,6 @@ I build **intelligent dashboards** and **analytics systems** that help businesse
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mia_Murphy-a8c8e8?style=for-the-badge&logo=linkedin&logoColor=0a0a12&labelColor=0a0a12)](https://www.linkedin.com/in/miamurphyvt/)
 [![Email](https://img.shields.io/badge/Email-miamurphyvt-f4b8c5?style=for-the-badge&logo=gmail&logoColor=0a0a12&labelColor=0a0a12)](mailto:miamurphyvt@gmail.com)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nightskyfirefly&color=c9b8e8&style=flat-square&label=Stargazers)
-![Followers](https://img.shields.io/github/followers/nightskyfirefly?style=flat-square&color=a8c8e8&labelColor=0a0a12&label=Followers)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightskyfirefly&query=$.public_repos&style=flat-square&color=f4b8c5&labelColor=0a0a12&label=Repositories&logo=github)
-
 </div>
 
 <br>
