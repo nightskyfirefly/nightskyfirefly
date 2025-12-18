@@ -43,8 +43,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=300&size=22&duration=4000&pause=1500&color=C9B8E8&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Fireflies+dance+where+data+meets+design;Building+dashboards+under+lavender+skies;From+spreadsheets+to+starlight;Finance+×+Data+×+Automation;Where+analytics+bloom+like+aurora)](https://git.io/typing-svg)
 
 </div>
-
-
 <br>
 
 <!-- ABOUT_ME -->
@@ -82,40 +80,6 @@ I build **intelligent dashboards** and **analytics systems** that help businesse
 </div>
 
 <br>
-
-<!-- TECH_STACK -->
-<div align="center">
-
-## 🛠️ Tech Constellation
-
-### Languages & Query
-![Python](https://img.shields.io/badge/Python-c9b8e8?style=for-the-badge&logo=python&logoColor=0a0a12)
-![SQL](https://img.shields.io/badge/SQL-a8c8e8?style=for-the-badge&logo=mysql&logoColor=0a0a12)
-![R](https://img.shields.io/badge/R-f4b8c5?style=for-the-badge&logo=r&logoColor=0a0a12)
-![JavaScript](https://img.shields.io/badge/JavaScript-d4a8e8?style=for-the-badge&logo=javascript&logoColor=0a0a12)
-
-### Data & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-c9b8e8?style=for-the-badge&logo=powerbi&logoColor=0a0a12)
-![Pandas](https://img.shields.io/badge/Pandas-a8c8e8?style=for-the-badge&logo=pandas&logoColor=0a0a12)
-![NumPy](https://img.shields.io/badge/NumPy-f4b8c5?style=for-the-badge&logo=numpy&logoColor=0a0a12)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-d4a8e8?style=for-the-badge&logo=scikitlearn&logoColor=0a0a12)
-![Tableau](https://img.shields.io/badge/Tableau-c9b8e8?style=for-the-badge&logo=tableau&logoColor=0a0a12)
-
-### Enterprise & Cloud
-![SAP](https://img.shields.io/badge/SAP_FICO-a8c8e8?style=for-the-badge&logo=sap&logoColor=0a0a12)
-![IBM TM1](https://img.shields.io/badge/IBM_TM1-f4b8c5?style=for-the-badge&logo=ibm&logoColor=0a0a12)
-![Azure](https://img.shields.io/badge/Azure-d4a8e8?style=for-the-badge&logo=microsoftazure&logoColor=0a0a12)
-![Databricks](https://img.shields.io/badge/Databricks-c9b8e8?style=for-the-badge&logo=databricks&logoColor=0a0a12)
-
-### Web & Design
-![React](https://img.shields.io/badge/React-a8c8e8?style=for-the-badge&logo=react&logoColor=0a0a12)
-![Tailwind](https://img.shields.io/badge/Tailwind-f4b8c5?style=for-the-badge&logo=tailwindcss&logoColor=0a0a12)
-![Figma](https://img.shields.io/badge/Figma-d4a8e8?style=for-the-badge&logo=figma&logoColor=0a0a12)
-
-</div>
-
-<br>
-
 
 <!-- DIVIDER_4 -->
 <div align="center">
