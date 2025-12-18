@@ -127,43 +127,9 @@ I build **intelligent dashboards** and **analytics systems** that help businesse
 
 <br>
 
-<!-- STATS -->
-<div align="center">
-
-## 📊 GitHub Stargazing
-
-<a href="https://github.com/nightskyfirefly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightskyfirefly&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=c9b8e8&icon_color=f4b8c5&text_color=e0d4f5&ring_color=a8c8e8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightskyfirefly&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=c9b8e8&text_color=e0d4f5"/>
-</a>
-
-<br><br>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightskyfirefly&theme=midnight-purple&hide_border=true&background=0a0a12&stroke=c9b8e8&ring=f4b8c5&fire=f4b8c5&currStreakLabel=c9b8e8&sideLabels=a8c8e8&currStreakNum=e0d4f5&sideNums=e0d4f5&dates=b8b0cc)
-
-</div>
-
-<br>
-
 <!-- DIVIDER_5 -->
 <div align="center">
 <img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,25:c9b8e8,50:a8c8e8,75:f4b8c5,100:0a0a12&height=3" />
-</div>
-
-<br>
-
-<!-- FEATURED_PROJECTS -->
-<div align="center">
-
-## 🌟 Featured Constellations
-
-</div>
-
-<div align="center">
-
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=nightskyfirefly&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=c9b8e8&icon_color=f4b8c5&text_color=e0d4f5)](https://github.com/nightskyfirefly/portfolio)
-[![Commuter Card](https://github-readme-stats.vercel.app/api/pin/?username=nightskyfirefly&repo=commuter&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=c9b8e8&icon_color=f4b8c5&text_color=e0d4f5)](https://github.com/nightskyfirefly/commuter)
-
 </div>
 
 <br>
