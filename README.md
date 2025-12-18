@@ -25,8 +25,7 @@
         🌑 → 🌒 → 🌓 → 🌔 → 🌕 → 🌖 → 🌗 → 🌘 → 🌑
        New  Wax   1st  Wax  Full Wan   3rd  Wan  New
             Cres  Qtr  Gib       Gib   Qtr  Cres
-                         ↑
-                    Current Phase
+
 ```
 
 </div>
