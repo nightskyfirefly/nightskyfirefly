@@ -1,7 +1,7 @@
 <!-- 🌌 Lavender Night Sky Theme - Moon Phase Tracking -->
 
 <!-- HEADER_START -->
-![Night Sky Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,25:1a1a2e,50:c9b8e8,75:a8c8e8,100:f4b8c5&height=280&section=header&text=nightskyfirefly%20🌙&fontSize=80&fontColor=e0d4f5&stroke=c9b8e8&strokeWidth=1&fontAlignY=35&desc=Finance%20×%20Data%20×%20Aurora&descSize=24&descAlignY=55&descAlign=50&animation=fadeIn)
+![Night Sky Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,25:1a1a2e,50:c9b8e8,75:a8c8e8,100:f4b8c5&height=280&section=header&text=nightskyfirefly%20🌙&fontSize=80&fontColor=e0d4f5&stroke=c9b8e8&strokeWidth=1&fontAlignY=35&desc=Finance%20×%20Data%20×%20Automation&descSize=24&descAlignY=55&descAlign=50&animation=fadeIn)
 <!-- HEADER_END -->
 
 <!-- MOON_PHASE_START -->
@@ -44,10 +44,6 @@
 
 </div>
 
-<!-- DIVIDER_2 -->
-<div align="center">
-<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:c9b8e8,50:a8c8e8,100:f4b8c5&height=2" />
-</div>
 
 <br>
 
@@ -80,7 +76,7 @@ I build **intelligent dashboards** and **analytics systems** that help businesse
 
 <br>
 
-<!-- DIVIDER_3 -->
+<!-- DIVIDER_2 -->
 <div align="center">
 <img width="500" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,25:c9b8e8,50:f4b8c5,75:a8c8e8,100:0a0a12&height=3" />
 </div>
