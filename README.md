@@ -15,7 +15,7 @@
   🌕 Full Moon → 🌖 Waning Gibbous → 🌗 Last Quarter → 🌘 Waning Crescent
 -->
 
-![Moon Phase](https://img.shields.io/badge/🌑_New_Moon-The_darkness_before_dawn-c9b8e8?style=for-the-badge&labelColor=0a0a12)
+![Moon Phase](https://img.shields.io/badge/🌒_Waxing_Crescent-The_light_returns-c9b8e8?style=for-the-badge&labelColor=0a0a12)
 
 <sub>✨ *Like the moon, we're always in phases of becoming* ✨</sub>
 
